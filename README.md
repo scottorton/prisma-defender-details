@@ -11,7 +11,7 @@ This script uses the Prisma Cloud Compute APIs to get details from all host defe
 
 ### Installation
 
-1. **Create Python Virtual Environment (If you haven't already**:
+1. **Create Python Virtual Environment (If you haven't alread)y**:
 
 ```bash
 python3 -m virtualenv venv && source venv/bin/activate  
@@ -47,7 +47,7 @@ PRISMA_SECRET_KEY=<your_prisma_secret_key>
 Run the script as follows:
 
 ```bash
-python defender-details 
+python defenderdetail.py 
 ```
 
 ### Output
